@@ -361,7 +361,7 @@
 
     <string name="Score">"Puntuación"</string>
     <string name="Rating">"Calificación"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderato!"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"¡Estás a punto de dejar el liderazgo"</string>
     <string name="XP">"EXP"</string>
     <string name="High_Score">"Mejores Puntuaciones"</string>
 
@@ -1012,7 +1012,7 @@ Si ves a un jugador que esté rompiendo las reglas del juego, favor de denunciar
     <string name="PROFILE_COLOR">COLOR DE PERFIL</string>
     <string name="Enable_Colors">Activar Colores</string>
     <string name="Particles">Partículas</string>
-    <string name="Clan_Particle_Uploads">Partículas de Clan</string>
+    <string name="Clan_Particle_Uploads">Partículas del Clan</string>
     <string name="Particle_Uploads">Partículas subidas</string>
     <string name="Blob_Outline">Contorno del blob</string>
     <string name="Game_Border">Borde del Juego</string>
@@ -1133,7 +1133,7 @@ Esta es una lista de cosas * PROHIBIDAS * en las skins personalizadas. Si compra
     <string name="pack_info">Después de comprar este pack de skins, sus máscaras exclusivas aparecerán en la parte superior de los menús de selección de skins.</string>
     <string name="EXCLUSIVE_skins_pets_hats_and_more_">¡Skins, Mascotas, Sombreros y Más EXCLUSIVAS!</string>
     <string name="BUY_NOW_">¡COMPRAR AHORA!</string>
-    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya sois dueños de esto.</string>
+    <string name="already_purchased">Tú o la persona para la que estás comprando esto ya son dueños de esto.</string>
     <string name="Halo_Animations">Animación del Halo</string>
     <string name="Trick_Notifications">Notificación de Tricks</string>
     <string name="Channel">Canal</string>
@@ -1416,7 +1416,7 @@ Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
     <string name="_2x_skin_resolution">Resolución de skin doble</string>
     <string name="pm">MP</string>
-    <string name="You_are_already_friends_">Ya sois amigos </string>
+    <string name="You_are_already_friends_">Ya son amigos </string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Para enviar correo, la cuenta debe haber sido creada, por lo menos, hace un día </string>
     <string name="Translator">Traductor</string>
     <string name="SUCCESS">ÉXITO</string>
